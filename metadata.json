@@ -1,0 +1,6 @@
+{
+  "name": "PROGEST SAFT PRO",
+  "description": "Plataforma profissional de leitura, análise e conformidade fiscal para ficheiros SAF-T AO em Angola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
